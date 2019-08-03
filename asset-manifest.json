@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ed6bf6e.chunk.css",
+    "main.js": "/static/js/main.79906294.chunk.js",
+    "main.js.map": "/static/js/main.79906294.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.19741814.chunk.js": "/static/js/2.19741814.chunk.js",
+    "static/js/2.19741814.chunk.js.map": "/static/js/2.19741814.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2ea15d7903dac482e7d53f9f41eba46b.js": "/precache-manifest.2ea15d7903dac482e7d53f9f41eba46b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3ed6bf6e.chunk.css.map": "/static/css/main.3ed6bf6e.chunk.css.map",
+    "static/media/BookMedicalSolid.svg": "/static/media/BookMedicalSolid.c49feab2.svg",
+    "static/media/FlaskSolid.svg": "/static/media/FlaskSolid.a145a343.svg",
+    "static/media/HospitalRegular.svg": "/static/media/HospitalRegular.22a84d7c.svg",
+    "static/media/UserInjuredSolid.svg": "/static/media/UserInjuredSolid.5bd8e728.svg",
+    "static/media/UserSolid.svg": "/static/media/UserSolid.1671e37f.svg",
+    "static/media/XRaySolid.svg": "/static/media/XRaySolid.b087e5fd.svg",
+    "static/media/logo.png": "/static/media/logo.e8417eca.png"
+  }
+}
